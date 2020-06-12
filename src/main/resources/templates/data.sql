@@ -1,0 +1,10 @@
+insert into hplus.Product (ID, name, imagePath) values (1005,'Adidas Shoes','/images/products/Adidas Shoes-01.png');
+insert into hplus.Product (ID, name, imagePath) values (1006,'Asics Shoes','/images/products/Asics Shoes01.png');
+insert into hplus.Product (ID, name, imagePath) values (1007,'Babolat Shoes','/images/products/Babolat Shoes.png');
+insert into hplus.Product (ID, name, imagePath) values (1008,'Dunlop Balls','/images/products/Dunlop Balls.png');
+insert into hplus.Product (ID, name, imagePath) values (1009,'Lacoste T-Shirts','/images/products/Lacoste T-Shirts.png');
+insert into hplus.Product (ID, name, imagePath) values (1010,'Nike Cap','/images/products/Nike Cap-01.png');
+insert into hplus.Product (ID, name, imagePath) values (1011,'Nike Shorts','/images/products/Nike Shorts-01.png');
+insert into hplus.Product (ID, name, imagePath) values (1012,'Nike T-Shirts','/images/products/Nike T-Shirts-01.png');
+insert into hplus.Product (ID, name, imagePath) values (1013,'Yonex Shoes - Wawrinka','/images/products/Yonex Shoes - Wawrinka.png');
+insert into hplus.Product (ID, name, imagePath) values (1014,'Nike cap- Rafa','/images/products/Nike Rafa cap 01.png');
