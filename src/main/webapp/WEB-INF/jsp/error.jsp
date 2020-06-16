@@ -19,7 +19,7 @@
             <!-- branding -->
             <ul class="navbar">
                 <li><a href="/home">home</a></li>
-                <li><a href="/goToLoginin">login</a></li>
+                <li><a href="/goToLogin">login</a></li>
                 <li><a href="/goToSearch">search</a></li>
                 <li><a href="/redirectToLinkedin">linkedin</a></li>
             </ul><!-- navbar -->
@@ -35,7 +35,7 @@
 <section id="error" class="section">
     <div class="container tagline">
         <h1 class="headline">Error!!!</h1>
-        <p>You have reached the default error page</p>
+        <p>${message}</p>
     </div><!-- container tagline -->
 </section>
 <footer class="footer">

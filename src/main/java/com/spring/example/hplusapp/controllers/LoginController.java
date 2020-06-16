@@ -32,6 +32,16 @@ public class LoginController {
         if (user==null){
             throw new ApplicationException("User not found");
         }
+        if (user.getUsername().equals(login.getUsername())&&
+                user.getPassword().equals(login.getPassword())){
+            System.out.println("usernanme: "+ user.getUsername());
+            System.out.println("username: " +login.getUsername());
+            System.out.println("usernanme: "+ user.getPassword());
+            System.out.println("usernanme: "+ login.getPassword());
+
+        }else {
+            throw new ApplicationException("Wrong Username or Password");
+        }
 
         return "forward:/userprofile";
     }
