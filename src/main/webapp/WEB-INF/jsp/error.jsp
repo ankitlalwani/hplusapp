@@ -32,7 +32,7 @@
         <p>We pride ourself in our <em>expert knowledge</em> and love towards the game of <em>Tennis</em> We have the <em>best selection</em> of products with varieties ranging from <em>economical</em> to <em>luxury</em> products.</p>
     </div><!-- container tagline -->
 </header>
-<section id="error" class="section">
+<section id="search" class="section">
     <div class="container tagline">
         <h1 class="headline">Error!!!</h1>
         <p>${message}</p>
