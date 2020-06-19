@@ -50,7 +50,7 @@
                 </div>
             </div>
         </nav>
-        <p class="legal">Tennis Store is a fictitious brand created by ankitlalwani solely for the purpose of practice. All products and people associated with Tennis Store are also fictitious. Any resemblance to real brands, products, or people is purely coincidental. Information provided about the product is also fictitious and should not be construed to be representative of actual products on the market in a similar product category.</p>
+        <p class="legal">Tennis Store is a fictitious brand created by ankit lalwani solely for the purpose of practicing Spring and Java. All products and people associated with Tennis Store are also fictitious. Any resemblance to real brands, products, or people is purely coincidental. Information provided about the product is also fictitious and should not be construed to be representative of actual products on the market in a similar product category.</p>
     </div><!-- container -->
 </footer><!-- footer -->
 
